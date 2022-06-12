@@ -1,0 +1,13 @@
+.Pokedex-card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.Pokedex-heading {
+    margin: 22px 0px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+}
